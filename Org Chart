@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CCYYC Org Chart and Roles & Responsibilities</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        .section {
+            margin-bottom: 30px;
+        }
+        .legend {
+            font-style: italic;
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Community Connect YYC</h1>
+        <h2>Org Chart & Roles & Responsibilities</h2>
+        <p><strong>Date:</strong> December 2024</p>
+
+        <div class="section">
+            <h3>Guiding Principles for Decision Making</h3>
+            <ul>
+                <li>Client centred – affordable and accessible services are available for all.</li>
+                <li>Committed – persevere for the long term.</li>
+                <li>Responsible – accountable to clients, funders, donors, and partners, including financial sustainability.</li>
+                <li>Positive disruption – innovate and challenge sector norms for continuous improvement.</li>
+                <li>Collaborate – build and maintain mutually beneficial partnerships.</li>
+                <li>Evidence-informed – grounded in the best available data, practice, and experience.</li>
+                <li>Approach – be brave, not perfect.</li>
+            </ul>
+        </div>
+
+        <div class="section">
+            <h3>Org Chart Overview</h3>
+            <p><strong>Purpose:</strong> Transforming the norms of access to affordable counselling and beyond.</p>
+            <p><strong>Ambition:</strong> Clients are empowered with choice and autonomy.</p>
+            <p><strong>Collaborative Goals:</strong></p>
+            <ul>
+                <li>Maximize collective sector impact through partnerships.</li>
+                <li>Lead the integration of affordable counselling services into other sectors.</li>
+            </ul>
+            <p class="legend"><strong>Legend:</strong> Solid line: management (direct) oversight; Dashed line: oversight to partnership agreement/MOU requirements.</p>
+        </div>
+
+        <div class="section">
+            <h3>Roles & Responsibilities</h3>
+
+            <h4>Lead Agency</h4>
+            <ul>
+                <li>Develop and implement governance and business structure operating processes.</li>
+                <li>Provide operational oversight and orientation for partners.</li>
+                <li>Liaise with technology and external consultants for progress and expansion.</li>
+                <li>Develop and implement financial sustainability and evaluation frameworks.</li>
+                <li>Communicate regular updates and chair relevant meetings.</li>
+                <li>Manage CCYYC website and social media presence.</li>
+                <li>Engage stakeholders and build partnerships for sector-level change.</li>
+            </ul>
+
+            <h4>Inventory Partners</h4>
+            <ul>
+                <li>Identify key contacts and ensure sufficient service inventory on CCYYC.</li>
+                <li>Support change management and operational processes within their organization.</li>
+                <li>Promote CCYYC and participate in data-driven service delivery improvements.</li>
+                <li>Engage in cross-agency relationships and contribute to strategic feedback.</li>
+            </ul>
+
+            <h4>External Referrer Partners</h4>
+            <ul>
+                <li>Promote and support the platform within their teams.</li>
+                <li>Participate in evaluations and provide feedback for continuous improvement.</li>
+                <li>Actively promote CCYYC in the community.</li>
+            </ul>
+
+            <h4>Contracted Technology Provider</h4>
+            <ul>
+                <li>Develop and maintain the platform.</li>
+                <li>Support troubleshooting and contribute to cyber security risk assessments.</li>
+            </ul>
+
+            <h4>CC Manager</h4>
+            <ul>
+                <li>Oversee day-to-day operations and manage issues related to the platform.</li>
+                <li>Lead meetings, develop reports, and promote continuous improvement.</li>
+                <li>Manage social media and stakeholder relationships.</li>
+                <li>Strategize and implement expansion plans.</li>
+            </ul>
+
+            <h4>CC Admin Support</h4>
+            <ul>
+                <li>Develop onboarding documentation and troubleshoot platform issues.</li>
+                <li>Analyze data trends and manage reporting.</li>
+                <li>Create social media posts and promote CCYYC within the community.</li>
+            </ul>
+
+            <h4>CC Leadership</h4>
+            <ul>
+                <li>Provide leadership and decision-making.</li>
+                <li>Engage stakeholders and support grant writing.</li>
+                <li>Promote CCYYC and seek expansion opportunities.</li>
+            </ul>
+        </div>
+    </div>
+</body>
+</html>
